@@ -16,21 +16,23 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```bash
-[root@workstation ~]# cat whoami.txt
-
-NAME="Nguyen Xuan Tu"
-CURRENT_ROLE="IT Support / Helpdesk Engineer"
-TARGET_ROLE="System Administrator"
-STATUS="Open to work (IT Support / Junior SysAdmin)"
-EMAIL="nguyenxuantu2486@gmail.com"
-
-[root@workstation ~]# systemctl status current_skills
-
-● current_skills.service - IT Operations & Administration
-   Active: active (running)
-   Skills:
-   ├─ End-User Support (Troubleshooting, OS, Office 365)
-   ├─ System Administration (Windows Server, AD, GPO, Linux)
-   ├─ Networking Core (TCP/IP, DNS, DHCP, LAN/WLAN)
-   └─ Virtualization (VMware ESXi, Hyper-V)
+```markdown
+```json
+{
+  "profile": {
+    "name": "Nguyen Xuan Tu",
+    "background": "IT Support Engineer",
+    "goal": "System Administrator",
+    "status": "Open to work"
+  },
+  "technical_stack": [
+    "Troubleshooting & Hardware",
+    "Windows Server & Linux",
+    "Active Directory & GPO",
+    "Network (TCP/IP, DNS, DHCP)",
+    "Virtualization (VMware / Hyper-V)"
+  ],
+  "contact": {
+    "email": "nguyenxuantu2486@gmail.com"
+  }
+}
