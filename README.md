@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-[Current Role] IT Support / Helpdesk Engineer
-[Target Role]  System Administrator
-[Status]       Open to Work
+[Current Role] IT Support / Helpdesk Engineer<br>
+[Target Role] System Administrator<br>
+[Status] Open to Work
 
-> Experience:  Hardware/Software Troubleshooting, LAN/WAN, O365, Ticketing Systems.
-> Upskilling:  Deploying Homelab (Windows Server, Active Directory, Linux, VMware, Networking).
-> Objective:   Seeking IT Support / Junior SysAdmin roles to leverage hands-on support experience and build scalable system administration skills.
+> Experience: Hardware/Software Troubleshooting, LAN/WAN, O365, Ticketing Systems.<br>
+> Upskilling: Deploying Homelab (Windows Server, Active Directory, Linux, VMware, Networking).<br>
+> Objective: Seeking IT Support / Junior SysAdmin roles to leverage hands-on support experience and build scalable system administration skills.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/x6u36kVh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/xuantu2k4/?locale=vi_VN) 
