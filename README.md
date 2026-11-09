@@ -16,10 +16,21 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[Current Role] IT Support / Helpdesk Engineer
-[Target Role]  System Administrator
-[Status]       Open to Work
+```bash
+[root@workstation ~]# cat whoami.txt
 
-> Experience:  Hardware/Software Troubleshooting, LAN/WAN, O365, Ticketing Systems.
-> Upskilling:  Deploying Homelab (Windows Server, Active Directory, Linux, VMware, Networking).
-> Objective:   Seeking IT Support / Junior SysAdmin roles to leverage hands-on support experience and build scalable system administration skills.
+NAME="Nguyen Xuan Tu"
+CURRENT_ROLE="IT Support / Helpdesk Engineer"
+TARGET_ROLE="System Administrator"
+STATUS="Open to work (IT Support / Junior SysAdmin)"
+EMAIL="nguyenxuantu2486@gmail.com"
+
+[root@workstation ~]# systemctl status current_skills
+
+● current_skills.service - IT Operations & Administration
+   Active: active (running)
+   Skills:
+   ├─ End-User Support (Troubleshooting, OS, Office 365)
+   ├─ System Administration (Windows Server, AD, GPO, Linux)
+   ├─ Networking Core (TCP/IP, DNS, DHCP, LAN/WLAN)
+   └─ Virtualization (VMware ESXi, Hyper-V)
